@@ -1,17 +1,14 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Fei-Fei Song 宋飞飞
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Fei-Fei
+last_name: Song
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🥰
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +17,36 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate in Cyberspace Security
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to show in About widget
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Nanjing University of Aeronautics and Astronautics
+    url: https://www.nuaa.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:songff@nuaa.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url:  https://www.instagram.com/seinffeld?igsh=cnlwYTZpdXU4dzI5&utm_source=qr
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/fei-fei-song-ba9a1433b
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com.hk/citations?user=a4cXYRwAAAAJ&hl=zh-CN
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Distributed Optimization
+  - Multi-agent Reinforcement Learning
+  - Graph Neural Networks
 
 education:
   - area: PhD Artificial Intelligence
