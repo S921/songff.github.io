@@ -52,7 +52,7 @@ education:
   - area: PhD Artificial Intelligence
     institution: Nanjing University of Aeronautics and Astronautics
     date_start: 2024-04-11
-    date_end: present
+    date_end: null
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
